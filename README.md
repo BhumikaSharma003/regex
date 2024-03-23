@@ -1,7 +1,6 @@
 # regex
 exercise question
-# regex
-exercise question
+
 # Python Regular Expression Exercise
 
 This repository contains solutions to a Python regular expression exercise where three different regular expressions were implemented to address different cases. Below are the details of each case along with the provided solutions:
